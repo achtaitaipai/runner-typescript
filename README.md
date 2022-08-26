@@ -1,6 +1,6 @@
 # Un mini jeu vidéo dans le navigateur :)
 
-## [Jouer](achtaitaipai.github.io/runner-typescript/)
+## [Jouer](https://achtaitaipai.github.io/runner-typescript/)
 
 ## Quelques ressources sympas
 
