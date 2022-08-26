@@ -1,0 +1,1 @@
+html,body{height:100%;margin:0;padding:0}body{display:grid;place-items:center;background-color:#000}canvas{background:linear-gradient(.5turn,#3f87a6,#ebf8e1,#f69d3c);border:1px solid white;max-height:90%;max-width:90%;-webkit-optimize-contrast:pixelated;-ms-interpolation-mode:nearest-neighbor;image-rendering:crisp-edges;image-rendering:pixelated}
