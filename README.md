@@ -19,3 +19,5 @@
 - [KaboomJs, une super librairie pour créer des petits jeux en js](https://kaboomjs.com/)
 
 - [Crisp-Game-Lib, une librairie en ts pour créer des jeux d'arcades à 1 bouton](https://github.com/abagames/crisp-game-lib)
+
+- [Une app maison, pour des faire des petits dessins et des petites anims](https://achtaitaipai.itch.io/pixynth2)
