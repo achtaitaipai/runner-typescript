@@ -16,6 +16,6 @@
 
 - [Game Programming Patterns, un livre sur les patterns dans le jeu vidéo](https://gameprogrammingpatterns.com/)
 
-- - [KaboomJs, une super librairie pour créer des petits jeux en js](https://kaboomjs.com/)
+- [KaboomJs, une super librairie pour créer des petits jeux en js](https://kaboomjs.com/)
 
 - [Crisp-Game-Lib, une librairie en ts pour créer des jeux d'arcades à 1 bouton](https://github.com/abagames/crisp-game-lib)
